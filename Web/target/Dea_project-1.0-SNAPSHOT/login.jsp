@@ -13,7 +13,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
     <head>
-        <meta charset="UTF-8" />
+        <meta charset="UTF-8" /> 
         <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  -->
         <title>Login and Registration</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
@@ -53,7 +53,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <form  action="mysuperscript.php" autocomplete="on"> 
                                 <h1>Log in</h1> 
                                 <p> 
-                                    <label for="username" class="uname" data-icon="u" > Your email or username </label>
+                                    <label for="username"  class="uname" data-icon="u" > Your email or username </label>
                                     <input id="username" name="username" required="required" type="text" placeholder="myusername or mymail@mail.com"/>
                                 </p>
                                 <p> 
